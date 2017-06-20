@@ -1,3 +1,7 @@
+# maven build
+thrift-client/target/**
+thrift-server/target/**
+
 # Compiled class file
 *.class
 
