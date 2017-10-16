@@ -59,7 +59,7 @@
 					</execution>
 				</executions>
 			</plugin>
-
+		<pluginManagement>
 			<plugin>
 				<artifactId>maven-antrun-plugin</artifactId>
 				<configuration />
@@ -91,6 +91,7 @@
 					</execution>
 				</executions>
 			</plugin>
+		</pluginManagement>
 
 		</plugins>
 	</build>
